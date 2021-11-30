@@ -1,0 +1,17 @@
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\bin\Debug\FormAdDegisme.exe.config
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\bin\Debug\FormAdDegisme.exe
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\bin\Debug\FormAdDegisme.pdb
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\Deneme1.csproj.AssemblyReference.cache
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.Form1.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.Form2.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.Properties.Resources.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\Deneme1.csproj.GenerateResource.cache
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\Deneme1.csproj.CoreCompileInputs.cache
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.exe
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.pdb
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.RandomToplama.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.OrtalamaHesapla.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.SayiOyun.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.OyunAlani.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.SayiTahmin.resources
+C:\Users\Melikee\source\repos\FormAdDegisme\FormAdDegisme\obj\Debug\FormAdDegisme.Karisik.resources
